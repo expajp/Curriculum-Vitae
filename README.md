@@ -1,5 +1,5 @@
 # 職務経歴書
-2018年9月2日 更新
+2018年9月14日 更新
 
 ## 基本情報
 |key|value|
@@ -42,7 +42,7 @@
   * TOEIC公開テスト スコア715 (2015/08)
   * 海外での勤務経験はなし
   * 学生時代、短期間の交換留学プログラムに参加経験あり
-    * [Brown\-ICERM\-Kobe Simulation Summer School \| Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics/brown-icerm-kobe)
+    * [Brown\-ICERM\-Kobe Simulation Summer School \| Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics/brown-icerm-kobe)
 
 
 ## 職務以外で開発したプロダクト
@@ -68,8 +68,9 @@
 ## 強み
 * 継続的な学習が習慣づいているため、職務に必要な技術へのキャッチアップはすぐ行えます
   * 2017年7月頃から基本的に毎日コードを書くようにしており、[GitHubのプロフィールページ](https://github.com/expajp)より確認できます
-  * 主に[Project Euler](https://projecteuler.net/)をRubyで解いており、2018年9月現在96問解答済みです（参加者83万人中上位1.5%以内）
+  * 主に[Project Euler](https://projecteuler.net/)をRubyで解いており、更新日現在100問解答済みです（参加者83万人中上位1.5%以内）
     * これにより、アルゴリズムの設計と実装が得意です
+    * 解答に使ったコードは[expajp/project\_euler](https://github.com/expajp/project_euler)より確認できます
   * 趣味で学習を進める過程でビットコインの原著論文を英語で通読して社外発表しているため、**ブロックチェーンの基盤技術には十分な理解があります**
 * エンジニア組織のマネジメントに強い関心を持っています
   * 「**個々人の能力の和よりも大きな力を発揮できるのが組織であり、少数の天才に頼るモデルより再現性が高い**」という考えによるものです
