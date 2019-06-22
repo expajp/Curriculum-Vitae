@@ -10,14 +10,14 @@
 |key|value|
 |---|-----|
 |Name|大河原 修 (Shu OGAWARA)|
+|生年月日|1990年9月9日|
 |Email|expajp(at)gmail.com|
 |Blog|[部屋の隅っこで書く技術ブログ](http://expajp-tech.hatenablog.com/)|
 |GitHub|[expajp \(Shu OGAWARA\)](https://github.com/expajp)|
 |Twitter|[@expajp](https://twitter.com/expajp)|
 |Facebook|[大河原 修](https://www.facebook.com/expa.Shu)|
 |Qiita|[expajp](https://qiita.com/expajp)|
-|SlideShare(-2018/03)|[expajp](https://www.slideshare.net/expajp)|
-|Speakerdeck(2018/04-)|[expajp](https://speakerdeck.com/expajp)|
+|Speakerdeck|[expajp](https://speakerdeck.com/expajp)|
 
 
 ## 主なスキル
