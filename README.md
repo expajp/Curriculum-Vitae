@@ -1,5 +1,5 @@
 # 職務経歴書
-2018年9月14日 更新
+2019年6月22日 更新
 
 ## 基本情報
 |key|value|
@@ -17,23 +17,17 @@
 
 ## 主なスキル
 ### 現在、仕事で利用している
-* Ruby/Ruby On Rails
-* JavaScript(ES5, Coffee Script, jQuery)
-* Bootstrap
+* Ruby
+* Ruby on Rails
+* JavaScript(ES5, ES6, CoffeeScript, jQuery)
 * MySQL
-* Git, Gitlab
+* AWS
+  * EC2, S3, CloudWatch, CodeBuild
 
 ### プロダクト作成に利用した経験がある
-* VB/VBA, ASP
-* SQL Server
-* Google Apps Script
-* FORTRAN
-* C言語
-* Java (Android)
-* ZURB Foundation
-
-### その他、現在勉強中である
 * Vue.js
+* Google Apps Script
+* Fortran
 
 ### 自然言語
 * 日本語
@@ -44,16 +38,13 @@
   * 学生時代、短期間の交換留学プログラムに参加経験あり
     * [Brown\-ICERM\-Kobe Simulation Summer School \| Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics/brown-icerm-kobe)
 
-
 ## 職務以外で開発したプロダクト
-* 関西ラーメンbot for Android
-  * 友人との共同開発
-  * 2014年10月リリース（現在Google Playより削除済み、面接時に手元でデモ可能）
-  * 現在地と最寄駅から最寄のラーメン屋を探し、レビューを閲覧するアプリ
-* [計算基盤研究室 \- 神戸大学大学院システム情報学研究科](http://www.na.scitec.kobe-u.ac.jp/)
-  * 所属していた研究室のWebサイト
-  * ZURB Foundation を採用
-  * デザイン、設計からリリースまですべて独力
+* [expajp/reredos](https://github.com/expajp/reredos)
+  * ReDoS（正規表現を利用したDoS攻撃）に強い形でメールアドレスのバリデーションを行うgem
+  * [銀座Railsでこのgemについて話しました](https://speakerdeck.com/expajp/sofalsezheng-gui-biao-xian-yi-yi-ari-redosnituite)
+* [Vue Poker](https://expajp.github.io/vue-poker/)
+  * Vue.jsとES6の習作として作成したポーカーゲーム
+  * [これの製作について書いたブログ記事](http://expajp-tech.hatenablog.com/entry/2019/06/13/233727)
 
 ## 資格
 応用情報技術者を再取得したのは、プロジェクトマネージャ試験の午前I免除を兼ねて学部時代の知識を思い出すため。
@@ -83,18 +74,17 @@
 
 
 ## 登壇歴
+* [銀座Rails #8](https://ginza-rails.connpass.com/event/121889/)(2019/04)
+  * [その正規表現、異議あり！ 〜 ReDoSについて \- Speaker Deck](https://speakerdeck.com/expajp/sofalsezheng-gui-biao-xian-yi-yi-ari-redosnituite)
+* [Rails Developers Meetup 2018 Day 4 Nouvelle Vague](https://techplay.jp/event/702297)(2018/12)
+  * [「あの人」に学ぶ！駆け出しRailsエンジニアの日常の過ごし方](https://speakerdeck.com/expajp/08-railsdm-afalseren-nixue-bu-qu-kechu-sirailsenziniafalseri-chang-falseguo-gosifang)
 * [TokyuRuby会議12](https://tokyurubykaigi.github.io/tokyu12/)（2018/07）
   * [Project Eulerから生まれたワンライナーたち](http://expajp-tech.hatenablog.com/entry/2018/07/31/232737)
-* [Y8 2017 spring in Shibuya](http://y8-2017-spring.hachiojipm.org/) (2017/05)
-  * [PMをめざして1年が経った](https://www.slideshare.net/expajp/pm1-76397528)
 * サポーターズColab.
-  * [ブロックチェーンの基本の「き」](https://supporterzcolab.com/event/193/)(2017/10)
-  * [LT型勉強会『ビットコイン』](https://supporterzcolab.com/event/268/)(2018/01)
-  * [【ハンズオン】Project Eulerではじめる実装とアルゴリズム構築のトレーニング](https://supporterzcolab.com/event/387/)(2018/05)
   * [しくじり先生「新卒2年目の転職」](https://supporterzcolab.com/event/429/)(2018/06)
+  * [LT型勉強会『ビットコイン』](https://supporterzcolab.com/event/268/)(2018/01)
 * [Otemachi.rb](https://enechange-meetup.connpass.com/)
   * ほぼ毎回LT参加
-
 
 ## 職務経歴
 ### 2017/11 - 現在: リンカーズ株式会社
@@ -115,7 +105,7 @@
 
 * 【担当フェーズ】詳細設計、プログラミング、単体テスト、結合テスト
 * ER図, クラス図を用いた詳細設計
-* Ruby On Railsを用いた機能開発
+* Ruby on Railsを用いた機能開発
   * モデルのCRUD作成
   * Ajaxを使ったファイルアップロード・ダウンロード機能
   * 検索機能
@@ -153,7 +143,6 @@ Classic ASPで構成されたWebアプリケーションを、既存顧客向け
   * 売上・販売管理システムのグループ間連携、DB間の連携をメインに設計及び実装
   * 特定の状況で稟議が自動承認されるロジックをDBサーバに実装
   * CSVファイルを出力するロジックと条件抽出のための画面を作成
-
 
 ## 趣味
 * 合唱
